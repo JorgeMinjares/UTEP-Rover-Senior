@@ -34,9 +34,11 @@ The objective of this project is to automate soil information acquisition. The r
 <img src="images/Rover-image.png" width = "400" height = "500">
 
 ### **System Demo**
-<video controls loop height="500" width="800">
-                    <source src="images/Rover-Test-Movement.mov" alt="">
-                  </video>
+
+
+https://user-images.githubusercontent.com/96082677/236660927-a4511100-433b-4916-8934-2b84a240b1d8.mov
+
+
 
 ### **Remote Controller**
 <img src="images/Remote-Controller-PCB.png" width = "500" height = "390"><br>
