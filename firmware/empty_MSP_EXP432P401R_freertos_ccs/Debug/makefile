@@ -153,7 +153,7 @@ all: $(OBJS) $(CMD_SRCS) $(GEN_CMDS)
 	@$(MAKE) --no-print-directory -Onone "empty_MSP_EXP432P401R_freertos_ccs.out"
 
 dependents:
-	-cd C:/Users/jorge/Desktop/GitHub/UTEP-Rover-Senior/firmware/freertos_builds_MSP_EXP432P401R_release_ccs/Debug && $(MAKE) all
+	-cd C:/Users/jorge/Desktop/GitHub/UTEP-Rover-Senior/firmware/freertos_builds_MSP_EXP432P401R_release_ccs/Debug && $(MAKE) clean all
 
 # Tool invocations
 empty_MSP_EXP432P401R_freertos_ccs.out: $(OBJS) $(CMD_SRCS) $(GEN_CMDS) C:/Users/jorge/Desktop/GitHub/UTEP-Rover-Senior/firmware/freertos_builds_MSP_EXP432P401R_release_ccs/Debug/freertos_builds_MSP_EXP432P401R_release_ccs.lib
