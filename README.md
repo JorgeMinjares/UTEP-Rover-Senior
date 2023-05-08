@@ -1,4 +1,4 @@
-# UTEP-Rover-Senior :zap:
+# Rover For Automated Soil Acquisition (RASA) :zap:
 ## **Objective** 
 The objective of this project is to automate soil information acquisition. The rover is designed to maneuver between crop field lines and probe the soil with senosrs to acquire desired information. Once the system process the information
 ## **Team Members**
