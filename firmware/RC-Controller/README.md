@@ -1,4 +1,4 @@
-# Rover For Automated Soil Acquisition (RASA) :zap:
+# RASA Remote Controller:zap:
 ## **Objective** 
 The objective of this project is to create a controller to manuver the system RASA and the robotic arm manually.
 ## **Hardware**
