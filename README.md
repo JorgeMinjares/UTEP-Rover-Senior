@@ -1,6 +1,6 @@
 # Rover For Automated Soil Acquisition (RASA) :zap:
 ## **Objective** 
-The objective of this project is to automate soil information acquisition. The rover is designed to maneuver between crop field lines and probe the soil with senosrs to acquire desired information. Once the system processes the information, it is sent over to the GUI and presented to the user. 
+The objective of this project is to automate soil data acquisition. The rover is designed to maneuver between the crop fields and probe the soil with senosrs to acquire data. Once the system processes the information, it is sent over to the GUI and display to the user. 
 ## **Team Members**
 - Octavio Galindo
   - Graphical User Interface (GUI)
