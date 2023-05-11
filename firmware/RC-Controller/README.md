@@ -1,21 +1,6 @@
 # Rover For Automated Soil Acquisition (RASA) :zap:
 ## **Objective** 
-The objective of this project is to automate soil information acquisition. The rover is designed to maneuver between crop field lines and probe the soil with senosrs to acquire desired information. Once the system process the information
-
-## **Components**
-  - [x] Robotic Arm 
-    - [x] Servo Motors (SG90)
-  - [x] Remote Controlled
-    - [x] RP2040 
-  - [ ] FreeRTOS
-    - [x] Task Creation
-    - [ ] Task Synchronization
-  - [ ] Soil Data Acquisition
-    - [ ] pH Sensor
-    - [ ] Humidity Sensor
-  - [x] Communication 
-    - [x] Bluetooth Module (HC-05)
-
+The objective of this project is to create a controller to manuver the system RASA and the robotic arm manually.
 ## **Hardware**
 
 ### **Remote Controller**
